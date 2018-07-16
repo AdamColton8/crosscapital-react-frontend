@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd1cb73-dd88-4244-aa3b-5244f664836b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="trade-react" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>withdra</find>
+      <find>user</find>
+      <find>dispatchRequestInProcessdispatchRequestInProcess</find>
+      <find>fetchPaymentData</find>
+      <find>start</find>
+      <find>135%</find>
+      <find>sta</find>
+      <find>trad</find>
+      <find>depos</find>
+      <find>plan</find>
+      <find>Trade</find>
+      <find>invest</find>
+      <find>tradeLi</find>
+      <find>230px</find>
+      <find>ther</find>
+      <find>Top</find>
+      <find>slide</find>
+      <find>alert</find>
+      <find>create</find>
+      <find>create(</find>
+      <find>inves</find>
+      <find>tradeL</find>
+      <find>regis</find>
+      <find>modal</find>
+      <find>let</find>
+      <find>modal-content</find>
+      <find>closePopup</find>
+      <find>terms</find>
+      <find>id=&quot;</find>
+      <find>sign</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@import &quot;./</replace>
+      <replace>img</replace>
+      <replace>../../img/</replace>
+      <replace>lds-ellipsis 2s</replace>
+      <replace>'required'</replace>
+      <replace>/auth.</replace>
+      <replace>authConstants</replace>
+      <replace>authService.</replace>
+      <replace>authActions</replace>
+      <replace>WALLETS</replace>
+      <replace>&quot;./</replace>
+      <replace>&quot;./~</replace>
+      <replace>url(../../</replace>
+      <replace>plan2</replace>
+      <replace>plan3</replace>
+      <replace>DEPOSITS</replace>
+      <replace>OPERATIONS</replace>
+      <replace>CANCEL_WITHDRAW</replace>
+      <replace>PAYMENT_SYSTEMS</replace>
+      <replace>WITHDRAW</replace>
+      <replace>USER_WITHDRAW</replace>
+      <replace>ACTIVATE_PLAN</replace>
+      <replace>USER_REFERRALS</replace>
+      <replace>/api</replace>
+      <replace>choosedPlan</replace>
+      <replace>walletData</replace>
+      <replace>cattegory</replace>
+      <replace>initialValue</replace>
+      <replace>CHANGE_USER_DATA</replace>
+      <replace>userData</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/sass/~bootstrap</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/node_modules/styles/sass</dir>
+      <dir>$PROJECT_DIR$/src/node_modules/components</dir>
+      <dir>$PROJECT_DIR$/src/node_modules</dir>
+      <dir>$PROJECT_DIR$/src/node_modules/styles/sass/layout</dir>
+      <dir>$PROJECT_DIR$/src/node_modules/styles</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/base/_bootstrap-override.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/_components/WithFormsyCheckbox.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/login/login/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_components/WithFormsyTextarea.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_components/WithFormsySelect.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_components/WithFormsyInput.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_reducers/user.reducer.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/layout/base/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/login/index.jsx" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/faq/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_constants/user.constants.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/banners/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/support/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/layout/_header.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/layout/_footer.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/base/_ui.scss" />
+        <option value="$USER_HOME$/Загрузки/Vector.svg" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/base/_animations.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/layout/_banners.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/profileSettings/PersonaInfo.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/profileSettings/Wallets.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/profileSettings/Password.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_services/tradePlans.service.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_services/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/projConfig.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_services/statistic.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/withdraws/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/login/passReset/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/referrals/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/layout/profile/header/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profitCalculator/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_actions/alert.actions.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_actions/user.actions.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/profile/deposits/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/_actions/request.actions.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/landing/tradePlan/index.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/layout/_index.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/popup.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/popup/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/features/popup.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/_styles.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/popup/terms.popup.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/layout/header/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/styles/sass/features/_popup.scss" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/signUp/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/popup/popupTerms.js" />
+        <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/layout/footer/index.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/components/common/landing/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/src/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trade-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trade-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trade-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trade-react" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trade-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trade-react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trade-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trade-react" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/node_modules/components/profile" />
+      <recent name="$PROJECT_DIR$/src/node_modules/components/common" />
+      <recent name="$PROJECT_DIR$/src/node_modules/components" />
+      <recent name="$PROJECT_DIR$/src/node_modules/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd1cb73-dd88-4244-aa3b-5244f664836b" name="Default" comment="" />
+      <created>1518682173043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518682173043</updated>
+      <workItem from="1518682174628" duration="19833000" />
+      <workItem from="1518713824424" duration="597000" />
+      <workItem from="1518735099127" duration="10616000" />
+      <workItem from="1518766359517" duration="11569000" />
+      <workItem from="1519026823330" duration="601000" />
+      <workItem from="1519113847433" duration="6447000" />
+      <workItem from="1519122361303" duration="15408000" />
+      <workItem from="1519198155259" duration="1233000" />
+      <workItem from="1519216791140" duration="11670000" />
+      <workItem from="1519286845308" duration="709000" />
+      <workItem from="1519290593533" duration="7086000" />
+      <workItem from="1519382269768" duration="2120000" />
+      <workItem from="1519722383632" duration="18671000" />
+      <workItem from="1519803489142" duration="279000" />
+      <workItem from="1519811450793" duration="5450000" />
+      <workItem from="1519827421007" duration="2283000" />
+      <workItem from="1519993783702" duration="803000" />
+      <workItem from="1519999172691" duration="3222000" />
+      <workItem from="1520234993295" duration="12026000" />
+      <workItem from="1520352228253" duration="449000" />
+      <workItem from="1520352709975" duration="306000" />
+      <workItem from="1520358789664" duration="13276000" />
+      <workItem from="1520375498528" duration="862000" />
+      <workItem from="1520411043675" duration="601000" />
+      <workItem from="1520460040467" duration="3002000" />
+      <workItem from="1520591526193" duration="5856000" />
+      <workItem from="1521015278467" duration="640000" />
+      <workItem from="1521019777451" duration="645000" />
+      <workItem from="1521042044161" duration="1534000" />
+      <workItem from="1521059136787" duration="2400000" />
+      <workItem from="1521108885996" duration="16200000" />
+      <workItem from="1521135459997" duration="3074000" />
+      <workItem from="1521186963439" duration="21650000" />
+      <workItem from="1521219248320" duration="3996000" />
+      <workItem from="1521531787741" duration="5341000" />
+      <workItem from="1521537370716" duration="16569000" />
+      <workItem from="1521571908959" duration="1618000" />
+      <workItem from="1521619128990" duration="10896000" />
+      <workItem from="1521630256973" duration="10241000" />
+      <workItem from="1521649511726" duration="61000" />
+      <workItem from="1521650742661" duration="64000" />
+      <workItem from="1521652616611" duration="15557000" />
+      <workItem from="1521704297502" duration="1614000" />
+      <workItem from="1521715255300" duration="1733000" />
+      <workItem from="1521723348754" duration="12113000" />
+      <workItem from="1521743504487" duration="505000" />
+      <workItem from="1521791177157" duration="21382000" />
+      <workItem from="1521837341076" duration="176000" />
+      <workItem from="1522047063002" duration="378000" />
+      <workItem from="1522075818803" duration="641000" />
+      <workItem from="1522081613260" duration="606000" />
+      <workItem from="1522132989343" duration="20466000" />
+      <workItem from="1522175396094" duration="1304000" />
+      <workItem from="1522236850529" duration="12398000" />
+      <workItem from="1522257270713" duration="1199000" />
+      <workItem from="1522305908484" duration="463000" />
+      <workItem from="1522306904554" duration="147000" />
+      <workItem from="1522307255143" duration="11660000" />
+      <workItem from="1522324667021" duration="8787000" />
+      <workItem from="1522337641438" duration="236000" />
+      <workItem from="1522749556068" duration="11711000" />
+      <workItem from="1522769541471" duration="609000" />
+      <workItem from="1522826184980" duration="2380000" />
+      <workItem from="1522843178214" duration="5528000" />
+      <workItem from="1522849802438" duration="1593000" />
+      <workItem from="1522864973700" duration="598000" />
+      <workItem from="1522930408592" duration="9195000" />
+      <workItem from="1522950809051" duration="66000" />
+      <workItem from="1522997407868" duration="2360000" />
+      <workItem from="1523015556267" duration="1028000" />
+      <workItem from="1523016952005" duration="8267000" />
+      <workItem from="1523046246000" duration="596000" />
+      <workItem from="1523091749649" duration="1691000" />
+      <workItem from="1523144495493" duration="14000" />
+      <workItem from="1524208103996" duration="5722000" />
+      <workItem from="1524214072011" duration="2794000" />
+      <workItem from="1524467761661" duration="2895000" />
+      <workItem from="1524484152409" duration="11373000" />
+      <workItem from="1524553274367" duration="2323000" />
+      <workItem from="1524555858850" duration="16886000" />
+      <workItem from="1524600582153" duration="1209000" />
+      <workItem from="1524638273451" duration="5660000" />
+      <workItem from="1524646845105" duration="8452000" />
+      <workItem from="1524662953371" duration="3600000" />
+      <workItem from="1524666830269" duration="3246000" />
+      <workItem from="1524725160081" duration="6732000" />
+      <workItem from="1524769339983" duration="206000" />
+      <workItem from="1524769704966" duration="13000" />
+      <workItem from="1524811710657" duration="459000" />
+      <workItem from="1524814623181" duration="7362000" />
+      <workItem from="1524829983129" duration="10797000" />
+      <workItem from="1525233402077" duration="9785000" />
+      <workItem from="1525262974631" duration="2750000" />
+      <workItem from="1525346818124" duration="2440000" />
+      <workItem from="1525416549643" duration="852000" />
+      <workItem from="1525440335564" duration="1122000" />
+      <workItem from="1525705134300" duration="1945000" />
+      <workItem from="1525708599475" duration="481000" />
+      <workItem from="1525963082072" duration="5934000" />
+      <workItem from="1528705463699" duration="8729000" />
+      <workItem from="1528723988634" duration="16455000" />
+      <workItem from="1529929781879" duration="7743000" />
+      <workItem from="1530183025529" duration="2916000" />
+      <workItem from="1530602803331" duration="240000" />
+      <workItem from="1531405110314" duration="121000" />
+      <workItem from="1531405297599" duration="116000" />
+      <workItem from="1531405749078" duration="3000" />
+      <workItem from="1531743734650" duration="907000" />
+      <workItem from="1531747511277" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="559701000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="806" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32863188" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061053" side_tool="true" weight="0.32905483" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32905483" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32863188" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4993895" visible="true" weight="0.32722145" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49389568" visible="true" weight="0.17668097" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="4" sideWeight="0.50610435" side_tool="true" weight="0.15453586" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.50437635" side_tool="true" weight="0.25316456" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Gulp" order="3" sideWeight="0.50437635" side_tool="true" weight="0.25316456" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/banners/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_services/user.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1932">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router/es/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/node_modules/react-router/es/Route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_components/WithFormsyCheckbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-687" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_components/Loader.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-slick/lib/slider.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-slick/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_services/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_services/tradePlans.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/landing/tradePlan/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/layout/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/popup.js" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/features/popup.scss" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/layout/_style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/_styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-popup/dist/Popup.react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="110" column="27" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-popup/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/vendor/_jquery_ui-slider.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="5561" column="4" selection-start-line="5561" selection-start-column="4" selection-end-line="5561" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/popup/terms.popup.js" />
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.50f8e6dd.js" />
+    <entry file="file://$PROJECT_DIR$/build/static/css/main.e3a66ae8.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/css/main.a1427f5d.css" />
+    <entry file="file://$PROJECT_DIR$/build/static/js/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_services/auth.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_reducers/auth.reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/_reducers/appStatus.reducer.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/libs/validifyFork/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/libs/validifyFork/get-error.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/libs/validifyFork/get-children.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/layout/profile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/layout/header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="106" column="110" selection-start-line="106" selection-start-column="77" selection-end-line="106" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/projConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/profile/modals/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/layout/base/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/layout/footer/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/styles/sass/features/_popup.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/popup/popupTerms.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/layout/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="45" column="3" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/signUp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/components/common/landing/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
